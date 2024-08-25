@@ -40,7 +40,7 @@ on:
       LOCAL_MANIFEST_BRANCH:
         description: "Personal local manifest's branch:"
         required: false
-        default: 'onclite-pixel14'
+        default: 'onclite-pixelos14'
       DEVICE_NAME:
         description: "Device's codename:"
         required: true
